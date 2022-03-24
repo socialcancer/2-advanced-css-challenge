@@ -1,4 +1,4 @@
-# 2 Advanced Css Challenge
+# 2 Advanced CSS Challenge
 
 ![NoSQL - Social Network](/assets/img/no-SQL-GETAll.gif)
 
