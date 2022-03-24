@@ -1,40 +1,32 @@
 # 2 Advanced CSS Challenge
 
-![NoSQL - Social Network](/assets/img/no-SQL-GETAll.gif)
+![View Portfolio](/assets/images/main-portfolio-walkthrough.gif)
 
 ## Description
 
-Your challenge is to build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
+A portfolio of work can showcase your skills and talents to employers looking to fill a part-time or full-time position. An effective portfolio highlights your strongest work as well as the thought processes behind it.
 
 ## Acceptance Criteria
 
-- Enter a command to invoke the **application**
-- Server is started and **Mongoose** models are synced
-- View API GET routes in **Insomnia** for **USERS** and **THOUGHTS**
-- Test API **POST**, **PUT**, and **DELETE** routes in **Insomnia**
-- Successfully **CREATE** and **DELETE** reactions to thoughts and **ADD** and **REMOVE** friends
+- **Load** portfolio
+- Presented with the **developer's name**
+- Click one of the links in the navigation UI scrolls to the section
+- I am presented with the developer's first application
+- Click on the images of the applications and taken to where the app is deployed
+- Presented with a responsive layout that adapts to my viewport
 
 ## Installation
 
 - Clone application repo
-- Install npm init -y
-- Npm i
-- Npm start
+- Use local server to view portfolio
 
 ## License
 
 This project has no license
 
-## Usage
-
-```
-Use Insomnia to view routes
-Use the terminal to start and stop Node.js and MongoDB
-```
-
 ## Submission
 
-[View the app](https://drive.google.com/drive/folders/13cnZR41KTPgyL-P_J2OvzbxuSJMnofjW?usp=sharing)
+[View the app](https://danielcreate.com/port/)
 
 ## Questions
 
